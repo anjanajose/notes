@@ -3,7 +3,7 @@
 A nodejs learning project
 
 To run: 
-npm install
+npm init
 node app.js
     - add --title="" --body=""
     - remove --title=""
